@@ -41,13 +41,16 @@ This project assumes you have Python 3 installed on your local machine.
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 Fork the Project
-1. Create your Feature Branch ```sh
-2.       git checkout -b feature/AmazingFeature)
-3. Commit your Changes ```sh
-3.       git commit -m 'Add some AmazingFeature')
-44. Push to the Branch ```sh
-45.       git push origin feature/AmazingFeature)
-55. Open a Pull Request
+1. Create your Feature Branch
+   ```sh
+       git checkout -b feature/AmazingFeature)
+3. Commit your Changes
+   ```sh
+       git commit -m 'Add some AmazingFeature')
+4. Push to the Branch
+   ```sh
+       git push origin feature/AmazingFeature)
+
 
 ## Contact
 - Guilherme Sales - @GuiSales404
