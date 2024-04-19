@@ -27,9 +27,10 @@ This project assumes you have Python 3 installed on your local machine.
    git clone https://github.com/GuiSales404/probabilistic-ml-from-scratch.git
 
 2. Navigate to the cloned repository:
-  cd probabilistic-ml-from-scratch
+   ```sh
+   cd probabilistic-ml-from-scratch
 
-3. Install the required packages:
+4. Install the required packages:
   unfortunately I forgot to save the libraries used(sorry ;-;), but it is definitely necessary:
     - Numpy
     - Matplotlib
@@ -40,10 +41,13 @@ This project assumes you have Python 3 installed on your local machine.
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 Fork the Project
-1. Create your Feature Branch (git checkout -b feature/AmazingFeature)
-2. Commit your Changes (git commit -m 'Add some AmazingFeature')
-3. Push to the Branch (git push origin feature/AmazingFeature)
-4. Open a Pull Request
+1. Create your Feature Branch ```sh
+2.       git checkout -b feature/AmazingFeature)
+3. Commit your Changes ```sh
+3.       git commit -m 'Add some AmazingFeature')
+44. Push to the Branch ```sh
+45.       git push origin feature/AmazingFeature)
+55. Open a Pull Request
 
 ## Contact
 - Guilherme Sales - @GuiSales404
