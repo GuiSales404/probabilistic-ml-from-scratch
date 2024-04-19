@@ -23,11 +23,11 @@ This project assumes you have Python 3 installed on your local machine.
 ### Installation
 
 1. Clone the repository:
-   ```sh
+      ```sh
    git clone https://github.com/GuiSales404/probabilistic-ml-from-scratch.git
 
 2. Navigate to the cloned repository:
-   ```sh
+      ```sh
    cd probabilistic-ml-from-scratch
 
 4. Install the required packages:
